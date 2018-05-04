@@ -1,0 +1,43 @@
+h1{
+	font-family:Winkie Bold;
+	color:black;
+	font-style:98px;
+	margin:35px;
+	font-size: 55px;
+	text-align: center;
+	background-color: #F08080;
+	margin-top: 0;
+	margin-left: 0;
+	margin-right: 0;
+}
+h2{
+	color: #FF1493;
+}
+#bc{
+	text-align: center;
+	color: #6495ED;
+
+}
+p{
+	color: #6495ED;
+	text-align: justify;
+
+}
+#im{
+	float: left;
+	padding: 20px;
+}
+p{
+	font-size: 25px;
+	text-align: justify;
+	padding: 20px;
+}
+
+footer{
+	background-image:  url(../img/pastel.jpg);
+	padding: 20px;
+	clear: both;
+}
+#u{
+	color: red;
+}
